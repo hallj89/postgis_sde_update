@@ -1,8 +1,0 @@
-postgresql:
-	POSTGIS_CONNECTION: C:\Users\jeremyhall\AppData\Roaming\ESRI\Desktop10.4\ArcCatalog\postgis.sde
-	POSTGIS_SCHEMA: fpdcc.quercus
-
-ArcSDE:
-	SDE_CONNECTION: C:\Users\jeremyhall\AppData\Roaming\ESRI\Desktop10.4\ArcCatalog\Planim.sde
-	PATH_TO_FC: C:\\Users\\jeremyhall\\AppData\\Roaming\\ESRI\\Desktop10.4\\ArcCatalog\\Planim.sde\\planim.GIS.FPDCC\\
-	SDE_SCHEMA: planim.GIS.
