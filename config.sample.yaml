@@ -1,0 +1,8 @@
+postgresql:
+	POSTGIS_CONNECTION: 'SDE file location'
+	POSTGIS_SCHEMA: 'table prefix'
+
+ArcSDE:
+	SDE_CONNECTION: 'SDE file location'
+	PATH_TO_FC: 'direct path to feature class including path to sde connection'
+	SDE_SCHEMA: 'feature class prefix'
